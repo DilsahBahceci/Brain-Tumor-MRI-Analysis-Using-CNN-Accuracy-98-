@@ -1,63 +1,37 @@
-# Brain-Tumor-MRI-Analysis-Using-CNN-Accuracy-98-
 # Brain Tumor MRI Classification Using CNN
 
-This project uses **Convolutional Neural Networks (CNNs)** to classify brain tumor types from MRI scans. The model achieves **~95% accuracy** in detecting tumor classes.
+Bu repo, Global AI Hub bootcamplerinde template olarak kullanılmak üzere hazırlanmıştır. Proje, **Brain Tumor MRI Dataset** üzerinde **Convolutional Neural Network (CNN)** kullanarak beyin tümörü sınıflandırması yapmaktadır ve yaklaşık **%95 doğruluk** sağlamaktadır.
 
-## Dataset
+## Giriş
 
-* **Source:** [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/dilahbaheci/brain-tumor-mri-classification)
-* **Description:** The dataset contains MRI images of brains, labeled according to tumor type.
-* **Classes:**
+Reponuzda şu anda okumakta olduğunuz gibi bir README.md dosyanız bulunmalıdır. Burada kısaca veri seti, kullanılan algoritmalar ve yapılan işlemler hakkında kısa bilgi verilmektedir.
 
-  * Glioma Tumor
-  * Meningioma Tumor
-  * Pituitary Tumor
-  * No Tumor
+* **Dataset:** [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/dilahbaheci/brain-tumor-mri-classification)
+* **Algoritma:** CNN (Convolutional Neural Network)
+* **Sınıflar:** Glioma Tumor, Meningioma Tumor, Pituitary Tumor, No Tumor
 
-## Model
+Projenin teknik anlatımı, notebook dosyalarındaki markdown hücrelerde detaylı olarak yapılmıştır. Bu hücrelerde veri ön işleme, model eğitimi, model değerlendirme ve görselleştirmeler yer almaktadır.
 
-* **Architecture:** Convolutional Neural Network (CNN)
-* **Input:** MRI images (preprocessed and resized)
-* **Output:** Predicted tumor class
+## Metrikler
 
-## Features
+* Model doğruluk oranı: ~95%
+* Confusion matrix ve classification report ile sınıf bazlı başarılar gözlemlenmiştir.
+* Proje kapsamında yanlış sınıflandırılan örnekler analiz edilmiştir.
 
-* Image preprocessing and normalization
-* Data augmentation for better generalization
-* Training with CNN and evaluation
-* Accuracy achieved: ~95%
+## Ekler
 
-## Usage
+Projeye ek olarak deployment veya GPU kullanımına dair ekstra çalışmalar yapılabilir. Örnek bir UI veya Streamlit scripti eklenerek deploy işlemi gösterilebilir.
 
-1. Clone the repository:
+## Sonuç ve Gelecek Çalışmalar
 
-```bash
-git clone https://github.com/yourusername/brain-tumor-cnn.git
-```
+Bu proje ile beyin tümörü sınıflandırma konusunda başarılı bir temel oluşturulmuştur. Gelecekte:
 
-2. Install dependencies:
+* Gerçek zamanlı veri toplama ve analiz
+* Daha kapsamlı CNN veya transfer learning modelleri
+* Kullanıcı arayüzü ile interaktif kullanım
+* Model optimizasyonu ve hiperparametre ayarlamaları gibi geliştirmeler yapılabilir.
 
-```bash
-pip install -r requirements.txt
-```
+## Linkler
 
-3. Run the training script:
-
-```bash
-python train.py
-```
-
-4. Evaluate the model:
-
-```bash
-python evaluate.py
-```
-
-## Results
-
-* Confusion matrix, classification report, and accuracy metrics
-* Visualization of correctly and incorrectly classified images
-
-## License
-
-This project is licensed under the MIT License.
+* [Kaggle Notebook 1](https://www.kaggle.com/code/goker67/decision-trees-acc-metrics-feature-selection)
+* [Kaggle Notebook 2](https://www.kaggle.com/code/goker67/everything-on-gpu-ml-with-cuml-polars-cupy)
