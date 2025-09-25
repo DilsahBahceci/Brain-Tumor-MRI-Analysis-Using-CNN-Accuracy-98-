@@ -33,5 +33,4 @@ Bu proje ile beyin tümörü sınıflandırma konusunda başarılı bir temel ol
 
 ## Linkler
 
-* [Kaggle Notebook 1](https://www.kaggle.com/code/goker67/decision-trees-acc-metrics-feature-selection)
-* [Kaggle Notebook 2](https://www.kaggle.com/code/goker67/everything-on-gpu-ml-with-cuml-polars-cupy)
+* [Kaggle Notebook ](https://www.kaggle.com/code/dilahbaheci/brain-tumor-mri-analysis-using-cnn-accuracy-98/edit/run/264024808)
