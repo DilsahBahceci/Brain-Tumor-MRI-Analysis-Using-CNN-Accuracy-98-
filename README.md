@@ -30,4 +30,4 @@ Bu proje ile beyin tümörü sınıflandırma konusunda başarılı bir temel ol
 
 ## Linkler
 
-* [Kaggle Notebook ](https://www.kaggle.com/code/dilahbaheci/brain-tumor-mri-analysis-using-cnn-accuracy-98/edit/run/264024808)
+* [Kaggle Notebook ][(https://www.kaggle.com/code/dilahbaheci/brain-tumor-mri-analysis-using-cnn-accuracy-98/edit/run/264024808](https://www.kaggle.com/code/dilahbaheci/brain-tumor-mri-analysis-using-cnn-accuracy-98)
