@@ -11,7 +11,7 @@ Proje, **Brain Tumor MRI Dataset** üzerinde **Convolutional Neural Network (CNN
 
 ## Metrikler
 
-* Model doğruluk oranı: ~95%
+* Model doğruluk oranı: ~98%
 * Confusion matrix ve classification report ile sınıf bazlı başarılar gözlemlenmiştir.
 * Proje kapsamında yanlış sınıflandırılan örnekler analiz edilmiştir.
 
