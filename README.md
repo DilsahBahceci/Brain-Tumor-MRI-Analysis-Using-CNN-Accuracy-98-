@@ -1,6 +1,6 @@
 # Brain Tumor MRI Classification Using CNN
  
-Proje, **Brain Tumor MRI Dataset** üzerinde **Convolutional Neural Network (CNN)** kullanarak beyin tümörü sınıflandırması yapmaktadır ve yaklaşık **%95 doğruluk** sağlamaktadır.
+Proje, **Brain Tumor MRI Dataset** üzerinde **Convolutional Neural Network (CNN)** kullanarak beyin tümörü sınıflandırması yapmaktadır ve yaklaşık **%98 doğruluk** sağlamaktadır.
 
 ## Giriş
 
