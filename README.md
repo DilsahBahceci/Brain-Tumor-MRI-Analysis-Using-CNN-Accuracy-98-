@@ -4,7 +4,7 @@ Proje, **Brain Tumor MRI Dataset** üzerinde **Convolutional Neural Network (CNN
 
 ## Giriş
 
-* **Dataset:** [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/dilahbaheci/brain-tumor-mri-classification)
+* **Dataset:** [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data)
 * **Algoritma:** CNN (Convolutional Neural Network)
 * **Sınıflar:** Glioma Tumor, Meningioma Tumor, Pituitary Tumor, No Tumor
 .
